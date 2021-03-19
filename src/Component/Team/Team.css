@@ -1,0 +1,27 @@
+.card-container{
+    display: flex;
+}
+#card{
+    display: flex;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    margin: auto;
+    width: 580px;
+    height: 300px;
+    border: 1px solid rgb(0, 183, 255);
+    margin: 1px;
+    max-width: max-content;
+    background-color: rgb(75, 151, 214);
+}
+
+#team-image{
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    margin: auto;
+    margin-top: 25px;
+}
+#teamBtn{
+background-color:black;
+}
